@@ -1,0 +1,16 @@
+PODS:
+  - HR_Screen (0.1.0)
+
+DEPENDENCIES:
+  - HR_Screen (from `../`)
+
+EXTERNAL SOURCES:
+  HR_Screen:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HR_Screen: 23eb2ae3b43887d64eaf320787f839e8f45a22b0
+
+PODFILE CHECKSUM: 2ff95e11de57c5d0c81e02d23e425ace55f18edb
+
+COCOAPODS: 1.3.1

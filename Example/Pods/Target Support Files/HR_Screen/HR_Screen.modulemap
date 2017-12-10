@@ -1,0 +1,6 @@
+framework module HR_Screen {
+  umbrella header "HR_Screen-umbrella.h"
+
+  export *
+  module * { export * }
+}
